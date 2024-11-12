@@ -11,4 +11,4 @@ Fokir is my second project in frontend development, designed to showcase my port
 **Clean, Modern Layout**: Minimalist style to keep the portfolio focused and professional.
 
 ## 📸 Preview
-![Bakery Website Screenshot](https://github.com/mohamedkhaled-dev/Fokir/blob/master/src/screenshot/Fokir.png)
+![Bakery Website Screenshot](https://github.com/mohamedkhaled-dev/Fokir/blob/main/src/screenshot/Fokir.png)
